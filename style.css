@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: blue;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    background-color: silver;
+}
+h2{
+    text-align: right;
+}
+span{
+    color: red;
+}
